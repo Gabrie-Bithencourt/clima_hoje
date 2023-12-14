@@ -1,0 +1,20 @@
+#icone-clima{
+    height: 140px;
+    width: 210px;
+    background-image: url('../img/sol.png');
+    background-repeat: no-repeat; background-position: center center;
+    background-size: 80% 80%;
+    border-right: 1px dotted #dee2e6;
+}
+
+.icons_actions{
+    width: 60px;
+}
+
+.icons_actions:hover{
+    background-color: #dee2e6;
+}
+
+.option_active{
+    background-color: #dee2e6;
+}
